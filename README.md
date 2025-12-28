@@ -12,7 +12,7 @@ It fetches real-time exchange rates from an API and allows users to convert betw
 ---
 
 ## 🔗 Live Demo
-![View Live] ()
+![View Live] (https://mahir9104.github.io/currency-converter/)
 
 ---
 
